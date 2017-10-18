@@ -1,3 +1,3 @@
 # repo
 
-Primera modificacion
+La app que hicimos fue App en Java
